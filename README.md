@@ -1,6 +1,7 @@
 <h1 align="center">✨Muy buenas✨</h1>
-<h2 align="center">Mi nombre es Alejandro Murcia</h2>
-<h3 align="center">Soy un estudiante de desarrollo de software y me apasiona la música🎹🎹.</h3>
+<h2 align="center">Mi nombre es Diego Pocasangre</h2>
+<h2 alingn="center">Mi apodo es el chele</h2>
+<h3 align="center">Soy un estudiante de desarrollo de software y me encata escuchar musica y jugar GTA V, war thunder 😎.</h3>
 
 <h5 align="center">Aquí presentaré mis proyectos y mi progreso a través de la especialidad de "Desarrollo de Software".
   
@@ -29,9 +30,9 @@
 
 ## Logros:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexGameDev07&theme=dark_lover&no-frame=true&align=center-ma&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiegoPoca07&theme=dark_lover&no-frame=true&align=center-ma&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![AlexDev's stats](https://github-readme-stats.vercel.app/api?username=AlexGameDev07&show_icons=true)
+![DiegoPoca07's stats](https://github-readme-stats.vercel.app/api?username=DiegoPoca07&show_icons=true)
 
 
 ## Frase:
