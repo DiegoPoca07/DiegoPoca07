@@ -1,7 +1,7 @@
 <h1 align="center">✨Muy buenas✨</h1>
 <h2 align="center">Mi nombre es Diego Pocasangre</h2>
 <h2 alingn="center">Mi apodo es el chele</h2>
-<h3 align="center">Soy un estudiante de desarrollo de software y me encata escuchar musica y jugar GTA V, war thunder 😎.</h3>
+<h3 align="center">Soy un estudiante de desarrollo de software (explotado) y me gusta escuchar musica y jugar GTA V, war thunder 😎.</h3>
 
 <h5 align="center">Aquí presentaré mis proyectos y mi progreso a través de la especialidad de "Desarrollo de Software".
   
