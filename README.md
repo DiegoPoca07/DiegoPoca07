@@ -1,6 +1,6 @@
  # Hola, soy Diego Rodríguez 👋
 
-Técnico en Redes y Soporte · Estudiante de Ingeniería en ciencias de la computación 
+Pasante en Redes y Soporte · Estudiante de Ingeniería en ciencias de la computación 
 
 Me interesan el soporte técnico, el mantenimiento de equipos y las redes. Busco seguir creciendo en infraestructura de TI y en el desarrollo de software, para resolver problemas reales de usuarios.
 
