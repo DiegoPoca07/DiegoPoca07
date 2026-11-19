@@ -63,6 +63,5 @@ Me interesan el soporte técnico, el mantenimiento de equipos y las redes. Busco
 
 ## 📫 Contacto
 
-- LinkedIn: www.linkedin.com/in/
-diego-rodríguez-
+- LinkedIn: www.linkedin.com/in/diego-rodríguez-
 - Correo: djpoca090905@gmail.com
